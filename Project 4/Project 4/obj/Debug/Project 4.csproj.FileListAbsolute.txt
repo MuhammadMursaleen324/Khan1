@@ -1,0 +1,7 @@
+E:\C\Project 4\Project 4\bin\Debug\Project 4.exe.config
+E:\C\Project 4\Project 4\bin\Debug\Project 4.exe
+E:\C\Project 4\Project 4\bin\Debug\Project 4.pdb
+E:\C\Project 4\Project 4\obj\Debug\Project 4.csproj.SuggestedBindingRedirects.cache
+E:\C\Project 4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+E:\C\Project 4\Project 4\obj\Debug\Project 4.exe
+E:\C\Project 4\Project 4\obj\Debug\Project 4.pdb

@@ -1,0 +1,8 @@
+E:\Mursaleen\area calculate function\area calculate function\obj\Debug\area calculate function.csproj.AssemblyReference.cache
+E:\Mursaleen\area calculate function\area calculate function\obj\Debug\area calculate function.csproj.SuggestedBindingRedirects.cache
+E:\Mursaleen\area calculate function\area calculate function\obj\Debug\area calculate function.csproj.CoreCompileInputs.cache
+E:\Mursaleen\area calculate function\area calculate function\bin\Debug\area calculate function.exe.config
+E:\Mursaleen\area calculate function\area calculate function\bin\Debug\area calculate function.exe
+E:\Mursaleen\area calculate function\area calculate function\bin\Debug\area calculate function.pdb
+E:\Mursaleen\area calculate function\area calculate function\obj\Debug\area calculate function.exe
+E:\Mursaleen\area calculate function\area calculate function\obj\Debug\area calculate function.pdb

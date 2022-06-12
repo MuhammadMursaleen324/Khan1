@@ -1,0 +1,7 @@
+E:\C\Projecct 3\Projecct 3\bin\Debug\Projecct 3.exe.config
+E:\C\Projecct 3\Projecct 3\bin\Debug\Projecct 3.exe
+E:\C\Projecct 3\Projecct 3\bin\Debug\Projecct 3.pdb
+E:\C\Projecct 3\Projecct 3\obj\Debug\Projecct 3.csproj.SuggestedBindingRedirects.cache
+E:\C\Projecct 3\Projecct 3\obj\Debug\Projecct 3.csproj.CoreCompileInputs.cache
+E:\C\Projecct 3\Projecct 3\obj\Debug\Projecct 3.exe
+E:\C\Projecct 3\Projecct 3\obj\Debug\Projecct 3.pdb

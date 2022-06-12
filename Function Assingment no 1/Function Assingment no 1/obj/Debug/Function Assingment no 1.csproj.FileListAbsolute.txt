@@ -1,0 +1,8 @@
+E:\Mursaleen\Function Assingment no 1\Function Assingment no 1\bin\Debug\Function Assingment no 1.exe.config
+E:\Mursaleen\Function Assingment no 1\Function Assingment no 1\bin\Debug\Function Assingment no 1.exe
+E:\Mursaleen\Function Assingment no 1\Function Assingment no 1\bin\Debug\Function Assingment no 1.pdb
+E:\Mursaleen\Function Assingment no 1\Function Assingment no 1\obj\Debug\Function Assingment no 1.csproj.AssemblyReference.cache
+E:\Mursaleen\Function Assingment no 1\Function Assingment no 1\obj\Debug\Function Assingment no 1.csproj.SuggestedBindingRedirects.cache
+E:\Mursaleen\Function Assingment no 1\Function Assingment no 1\obj\Debug\Function Assingment no 1.csproj.CoreCompileInputs.cache
+E:\Mursaleen\Function Assingment no 1\Function Assingment no 1\obj\Debug\Function Assingment no 1.exe
+E:\Mursaleen\Function Assingment no 1\Function Assingment no 1\obj\Debug\Function Assingment no 1.pdb
